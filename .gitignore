@@ -1,0 +1,15 @@
+##### Altium
+3d
+History
+__Previews
+*.PrjPCBStructure
+*.PrjPcbStructure
+
+*.SchDocPreview
+*.PcbDocPreview
+Project Outputs for *
+Project Logs for *
+
+# PCB
+# *.IntLib
+# *.LOG
