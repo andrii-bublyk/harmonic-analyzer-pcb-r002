@@ -194,94 +194,6 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\Design Rule Check - harmonicAnalyzerPcb_r002.html
 DItemRevisionGUID=
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GML
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.REP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for harmonicAnalyzerProject_r002\harmonicAnalyzerPcb_r002.RUL
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -682,9 +594,9 @@ Configuration4_Item5=tsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigT
 Configuration4_Name6=SortOrder
 Configuration4_Item6=Designator=Up
 Configuration4_Name7=VisibleOrder
-Configuration4_Item7=Designator=100|Comment=100|Description=100|Footprint=100|Quantity=100
+Configuration4_Item7=Designator=100|Comment=100|Description=100|Footprint=100|Quantity=197
 Configuration4_Name8=VisibleOrder_Flat
-Configuration4_Item8=Designator=100|Comment=100|Description=100|Footprint=100|Quantity=100
+Configuration4_Item8=Designator=100|Comment=100|Description=100|Footprint=100|Quantity=197
 OutputType5=ComponentCrossReference
 OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
